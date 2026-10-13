@@ -1,0 +1,11 @@
+{
+  "name": "UK TV Pro",
+  "short_name": "UK TV Pro",
+  "description": "UK television guide and official streaming links",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0e16",
+  "theme_color": "#10131d",
+  "icons": []
+}
